@@ -1,0 +1,10 @@
+1,   Belen_Silva,Reiramisuki,4354_7454_2564,1169602294,Valor
+2,  Damian,Heidielperro,019288272222,1130284413,Sabiduria
+3,  Diego,d0k1984,7309_2519_5344,1164848701,Sabiduria
+4,    Cristian,Hasscristian,2118_7943_8561,1124996714,Valor
+5,     Fernando,EvolutionServer,5326_2597_9339,1132548685,Instinto
+6,     Richard,RicardoLuffys,4701_5108_7716,1127297129,Instinto
+7,     Richard,RichardLuffys,2780_2048_0482,1127297129,Valor
+8,  Richard,RichiLuffys,1253_0826_7402,1127297129,Sabiduria
+9,  Richard,RichiL,1253_0826_7402,1127297129,Sabidura
+10, pipi,mabel,99999999,99999999,turquesa
